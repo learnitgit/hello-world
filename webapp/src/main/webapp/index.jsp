@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New DevOps Learning With Ansible</h1>
+    <h1>DevOps With Ansible</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter Mobile</b></label>
+    <label for="mobile"><b>Enter your Mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
